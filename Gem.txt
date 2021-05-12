@@ -1,0 +1,19 @@
+//Gem là một thư viện của Ruby.
+
+//Bundler là một công cụ quản lý việc cài đặt, cập nhật, gỡ bỏ, cấu hình cũng như quản lý version của các GEM.
+Bundle giống như một Gem dùng để quản lý các gem khác
+
+//RVM là viết tắt của cụm từ Ruby Version Manager là một phần mềm quản lý các phiên bản khác nhau của Ruby trên hệ thống giúp chúng ta có thể dễ dàng thay đổi giữa các phiên bản Ruby sử dụng.
+
+//gem list
+//gem uninstall <gem name>
+
+//rvm list known
+//rvm list rubies
+//rvm install 2.1
+//rvm use 2.1
+//rvm use 2.1 --default
+//rvm uninstall 1.8.6
+//rvm remove 1.8.6
+
+//rvm gemset create teddy
