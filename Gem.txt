@@ -11,6 +11,7 @@ Bundle giống như một Gem dùng để quản lý các gem khác
 //rvm list known
 //rvm list rubies
 //rvm install 2.1
+//bash --login
 //rvm use 2.1
 //rvm use 2.1 --default
 //rvm uninstall 1.8.6
