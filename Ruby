@@ -1,4 +1,0 @@
-//Iteration
-//Everything has a value
-Symbols are not lightweight Strings
-//Everything is an Object
