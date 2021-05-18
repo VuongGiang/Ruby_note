@@ -1,15 +1,16 @@
 #!/usr/bin/ruby -w
+$count = 0
 class Box
-	@@count = 0
+
 
 	def initialize(w,h)
 		@width, @height = w, h
 
-		@@count += 1
+		count += 1
 	end
 
-	def self.printCount()
-		puts "Box count is : #{@@count}"
+	def printCount()
+		puts "Box count is : #{count}"
 	end
 end
 

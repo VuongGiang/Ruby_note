@@ -1,0 +1,6 @@
+5 types of variables:
+1. local ([a-z],_)
+2. global ($)
+3. instance (@)
+4. class (@@)
+5. constant
